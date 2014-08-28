@@ -3,4 +3,5 @@ google-homepage
 
 Rebuilding the Google homepage for The Odin Project
 
-test text
+https://github.com/kretren/google-homepage.git
+
